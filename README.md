@@ -9,6 +9,51 @@ This README tracks all changes made in this folder today. I will append a detail
 
 ## Changelog
 
+- 2025-10-22 03:59 — Add daily tasks folder tool and tools index
+  - Added Python script to create a new folder each run using `todaysTasks_XXXXXX_YYYY-MM-DD` naming.
+  - Added Windows wrapper `create-todays-tasks.bat` for one-command execution.
+  - Added `TOOLS.md` as a living index of helper tools in this repo.
+  - Files: `tools/create_todays_tasks.py`, `create-todays-tasks.bat`, `TOOLS.md`.
+
+- 2025-10-22 03:49 — Add OpenAI chatbot docs and summary
+  - Created `Resources/` folder with references and a practical summary.
+  - Saved:
+    - `Resources/openai-node_README.md` (OpenAI Node SDK)
+    - `Resources/openai-python_README.md` (OpenAI Python SDK)
+    - `Resources/openai_cookbook_streaming.ipynb` (streaming example)
+    - `Resources/ChatGPT_Chatbot_Summary.md` (concise how-to for a simple chatbot)
+    - `Resources/Official_Doc_Links.txt` (links to official Chat docs)
+  - Note: Direct download of platform docs pages was blocked (403); links provided instead.
+
+- 2025-10-22 03:44 — Move flag images into state folders
+  - Created `images/` subfolder in each state as needed and moved flags:
+    - `united states/South/Arkansas/images/flag.svg`
+    - `united states/South/Oklahoma/images/flag.svg`
+  - Removed originals from `downloads/` by moving them.
+
+- 2025-10-22 03:42 — Add Arkansas and Oklahoma state flags
+  - Created `downloads/` folder and saved flag images from Wikimedia Commons.
+  - Files added:
+    - `downloads/arkansas-flag.svg`
+    - `downloads/oklahoma-flag.svg`
+  - Source: Wikimedia Commons (public domain/compatible licenses as provided on the file pages).
+
+- 2025-10-22 03:39 — Group states into regional folders
+  - Created region folders under `united states/`: `Northeast`, `Midwest`, `South`, `West`.
+  - Moved each state folder into its corresponding region per U.S. Census regions.
+  - Example paths: `united states/South/Texas`, `united states/Northeast/New York`, `united states/Midwest/Illinois`, `united states/West/California`.
+  - All 50 states organized; existing `info.txt` files moved with their folders.
+
+- 2025-10-22 03:29 — Configure GitHub remote
+  - Set `origin` to `https://github.com/longjoshua4508-pixel/Ai-Innovation-Agentic-Coding.git`.
+  - Note: Initial push attempted earlier but timed out due to environment network limits. Remote is configured; push when network permits.
+
+- 2025-10-22 03:20 — Completed Git initialization
+  - Initialized Git repository on branch `main`, staged all files, and created initial commit.
+  - Local Git used: C:\Program Files\Git\cmd\git.exe
+  - Latest commit: d4079f0
+  - Note: Git may convert LF to CRLF on checkout per Windows defaults.
+
 - 2025-10-22 03:09 — Git initialization deferred (Git not found)
   - Attempted to run `git` commands but `git` is not available on PATH in this environment.
   - Current state: `.gitignore` added, but repository not yet initialized.

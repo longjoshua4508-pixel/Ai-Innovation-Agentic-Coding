@@ -1,0 +1,9 @@
+Official OpenAI documentation relevant to building a ChatGPT-style chatbot:
+
+- Chat Completions Guide: https://platform.openai.com/docs/guides/chat-completions
+- Chat API Reference: https://platform.openai.com/docs/api-reference/chat
+- Quickstart: https://platform.openai.com/docs/quickstart
+- Usage dashboard: https://platform.openai.com/usage
+
+Note: Direct downloading of some docs pages was blocked (403) in this environment. Refer to the links above in your browser for the latest content.
+
