@@ -1,0 +1,4 @@
+﻿State: South Carolina
+Capital: Columbia
+Latitude: 34.00071
+Longitude: -81.034814

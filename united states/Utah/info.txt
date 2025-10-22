@@ -1,0 +1,4 @@
+﻿State: Utah
+Capital: Salt Lake City
+Latitude: 40.777477
+Longitude: -111.888237

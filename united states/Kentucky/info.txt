@@ -1,0 +1,4 @@
+﻿State: Kentucky
+Capital: Frankfort
+Latitude: 38.186722
+Longitude: -84.875374

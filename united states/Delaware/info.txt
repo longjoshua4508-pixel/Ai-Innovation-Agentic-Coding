@@ -1,0 +1,4 @@
+﻿State: Delaware
+Capital: Dover
+Latitude: 39.157307
+Longitude: -75.519722

@@ -1,0 +1,4 @@
+﻿State: Washington
+Capital: Olympia
+Latitude: 47.037872
+Longitude: -122.900696

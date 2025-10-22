@@ -1,0 +1,4 @@
+﻿State: Wyoming
+Capital: Cheyenne
+Latitude: 41.140259
+Longitude: -104.820236

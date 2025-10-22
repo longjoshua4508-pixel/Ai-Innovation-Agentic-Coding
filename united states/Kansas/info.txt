@@ -1,0 +1,4 @@
+﻿State: Kansas
+Capital: Topeka
+Latitude: 39.048191
+Longitude: -95.677956

@@ -1,0 +1,4 @@
+﻿State: Tennessee
+Capital: Nashville
+Latitude: 36.16581
+Longitude: -86.784241

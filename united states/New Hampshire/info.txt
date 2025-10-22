@@ -1,0 +1,4 @@
+﻿State: New Hampshire
+Capital: Concord
+Latitude: 43.206898
+Longitude: -71.537994

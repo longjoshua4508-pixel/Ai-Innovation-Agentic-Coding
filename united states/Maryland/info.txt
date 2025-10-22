@@ -1,0 +1,4 @@
+﻿State: Maryland
+Capital: Annapolis
+Latitude: 38.978764
+Longitude: -76.490936

@@ -1,0 +1,4 @@
+﻿State: California
+Capital: Sacramento
+Latitude: 38.576668
+Longitude: -121.493629

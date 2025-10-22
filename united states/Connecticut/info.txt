@@ -1,0 +1,4 @@
+﻿State: Connecticut
+Capital: Hartford
+Latitude: 41.764046
+Longitude: -72.682198

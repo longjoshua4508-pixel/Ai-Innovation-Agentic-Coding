@@ -1,0 +1,4 @@
+﻿State: Arizona
+Capital: Phoenix
+Latitude: 33.448143
+Longitude: -112.096962

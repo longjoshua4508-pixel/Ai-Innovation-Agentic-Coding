@@ -1,0 +1,4 @@
+﻿State: Oregon
+Capital: Salem
+Latitude: 44.938461
+Longitude: -123.030403

@@ -1,0 +1,4 @@
+﻿State: Nebraska
+Capital: Lincoln
+Latitude: 40.808075
+Longitude: -96.699654

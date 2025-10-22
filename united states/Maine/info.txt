@@ -1,0 +1,4 @@
+﻿State: Maine
+Capital: Augusta
+Latitude: 44.307167
+Longitude: -69.781693

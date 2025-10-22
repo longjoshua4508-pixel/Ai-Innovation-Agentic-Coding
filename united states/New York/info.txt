@@ -1,0 +1,4 @@
+﻿State: New York
+Capital: Albany
+Latitude: 42.652843
+Longitude: -73.757874

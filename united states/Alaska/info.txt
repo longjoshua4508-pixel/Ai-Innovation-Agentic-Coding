@@ -1,0 +1,4 @@
+﻿State: Alaska
+Capital: Juneau
+Latitude: 58.301598
+Longitude: -134.420212

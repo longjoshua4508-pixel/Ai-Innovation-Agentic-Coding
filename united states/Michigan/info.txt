@@ -1,0 +1,4 @@
+﻿State: Michigan
+Capital: Lansing
+Latitude: 42.733635
+Longitude: -84.555328

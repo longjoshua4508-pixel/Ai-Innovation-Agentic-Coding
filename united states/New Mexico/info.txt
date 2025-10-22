@@ -1,0 +1,4 @@
+﻿State: New Mexico
+Capital: Santa Fe
+Latitude: 35.686974
+Longitude: -105.937798

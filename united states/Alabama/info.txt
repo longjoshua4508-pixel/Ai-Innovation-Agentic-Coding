@@ -1,0 +1,4 @@
+﻿State: Alabama
+Capital: Montgomery
+Latitude: 32.377716
+Longitude: -86.300568

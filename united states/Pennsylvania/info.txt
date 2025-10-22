@@ -1,0 +1,4 @@
+﻿State: Pennsylvania
+Capital: Harrisburg
+Latitude: 40.264378
+Longitude: -76.883598

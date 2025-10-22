@@ -1,0 +1,4 @@
+﻿State: North Carolina
+Capital: Raleigh
+Latitude: 35.78043
+Longitude: -78.639099

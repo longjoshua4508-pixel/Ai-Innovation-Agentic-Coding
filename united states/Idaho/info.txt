@@ -1,0 +1,4 @@
+﻿State: Idaho
+Capital: Boise
+Latitude: 43.617775
+Longitude: -116.199722

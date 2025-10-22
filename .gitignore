@@ -1,0 +1,12 @@
+# OS-generated files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE/editor settings (optional to ignore)
+.vscode/
+.idea/
+
+# macOS (in case files get synced across)
+.DS_Store
+

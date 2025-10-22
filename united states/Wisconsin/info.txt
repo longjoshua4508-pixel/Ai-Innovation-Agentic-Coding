@@ -1,0 +1,4 @@
+﻿State: Wisconsin
+Capital: Madison
+Latitude: 43.074684
+Longitude: -89.384445

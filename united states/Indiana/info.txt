@@ -1,0 +1,4 @@
+﻿State: Indiana
+Capital: Indianapolis
+Latitude: 39.768623
+Longitude: -86.162643

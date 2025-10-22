@@ -1,0 +1,4 @@
+﻿State: Massachusetts
+Capital: Boston
+Latitude: 42.358162
+Longitude: -71.063698

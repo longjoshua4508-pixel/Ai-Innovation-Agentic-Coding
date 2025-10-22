@@ -1,0 +1,4 @@
+﻿State: Mississippi
+Capital: Jackson
+Latitude: 32.303848
+Longitude: -90.182106

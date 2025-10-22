@@ -1,0 +1,4 @@
+﻿State: Louisiana
+Capital: Baton Rouge
+Latitude: 30.457069
+Longitude: -91.187393

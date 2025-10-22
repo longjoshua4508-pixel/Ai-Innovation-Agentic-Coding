@@ -1,0 +1,4 @@
+﻿State: Vermont
+Capital: Montpelier
+Latitude: 44.262436
+Longitude: -72.580536

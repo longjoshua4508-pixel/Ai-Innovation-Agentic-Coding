@@ -1,0 +1,4 @@
+﻿State: Ohio
+Capital: Columbus
+Latitude: 39.961346
+Longitude: -82.999069

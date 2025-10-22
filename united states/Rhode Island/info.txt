@@ -1,0 +1,4 @@
+﻿State: Rhode Island
+Capital: Providence
+Latitude: 41.830914
+Longitude: -71.414963

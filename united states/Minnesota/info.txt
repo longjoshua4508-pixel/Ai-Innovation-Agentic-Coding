@@ -1,0 +1,4 @@
+﻿State: Minnesota
+Capital: Saint Paul
+Latitude: 44.955097
+Longitude: -93.102211

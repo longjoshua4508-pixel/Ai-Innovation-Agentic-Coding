@@ -1,0 +1,4 @@
+﻿State: Virginia
+Capital: Richmond
+Latitude: 37.538857
+Longitude: -77.43364

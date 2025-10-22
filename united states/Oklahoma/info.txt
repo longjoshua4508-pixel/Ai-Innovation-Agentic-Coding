@@ -1,0 +1,4 @@
+﻿State: Oklahoma
+Capital: Oklahoma City
+Latitude: 35.492207
+Longitude: -97.503342

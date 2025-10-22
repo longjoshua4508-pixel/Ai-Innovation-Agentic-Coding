@@ -1,0 +1,4 @@
+﻿State: Arkansas
+Capital: Little Rock
+Latitude: 34.746613
+Longitude: -92.288986

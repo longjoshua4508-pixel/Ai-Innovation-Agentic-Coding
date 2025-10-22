@@ -1,0 +1,4 @@
+﻿State: Nevada
+Capital: Carson City
+Latitude: 39.163914
+Longitude: -119.766121

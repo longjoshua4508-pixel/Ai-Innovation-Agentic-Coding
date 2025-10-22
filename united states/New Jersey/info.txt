@@ -1,0 +1,4 @@
+﻿State: New Jersey
+Capital: Trenton
+Latitude: 40.220596
+Longitude: -74.769913

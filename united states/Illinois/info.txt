@@ -1,0 +1,4 @@
+﻿State: Illinois
+Capital: Springfield
+Latitude: 39.798363
+Longitude: -89.654961

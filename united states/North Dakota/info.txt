@@ -1,0 +1,4 @@
+﻿State: North Dakota
+Capital: Bismarck
+Latitude: 46.82085
+Longitude: -100.783318

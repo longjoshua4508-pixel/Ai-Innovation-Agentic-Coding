@@ -1,0 +1,4 @@
+﻿State: Iowa
+Capital: Des Moines
+Latitude: 41.591087
+Longitude: -93.603729

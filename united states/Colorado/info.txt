@@ -1,0 +1,4 @@
+﻿State: Colorado
+Capital: Denver
+Latitude: 39.739227
+Longitude: -104.984856

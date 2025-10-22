@@ -1,0 +1,4 @@
+﻿State: Texas
+Capital: Austin
+Latitude: 30.274665
+Longitude: -97.740349

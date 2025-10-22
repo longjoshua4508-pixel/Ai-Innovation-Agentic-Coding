@@ -1,0 +1,4 @@
+﻿State: Hawaii
+Capital: Honolulu
+Latitude: 21.307442
+Longitude: -157.857376

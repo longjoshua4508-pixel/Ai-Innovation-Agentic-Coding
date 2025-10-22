@@ -1,0 +1,4 @@
+﻿State: Missouri
+Capital: Jefferson City
+Latitude: 38.579201
+Longitude: -92.172935

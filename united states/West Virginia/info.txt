@@ -1,0 +1,4 @@
+﻿State: West Virginia
+Capital: Charleston
+Latitude: 38.336246
+Longitude: -81.612328

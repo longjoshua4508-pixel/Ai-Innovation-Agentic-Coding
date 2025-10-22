@@ -1,0 +1,4 @@
+﻿State: Georgia
+Capital: Atlanta
+Latitude: 33.749027
+Longitude: -84.388229

@@ -1,0 +1,4 @@
+﻿State: South Dakota
+Capital: Pierre
+Latitude: 44.367031
+Longitude: -100.346405

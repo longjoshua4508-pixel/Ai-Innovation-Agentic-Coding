@@ -1,0 +1,4 @@
+﻿State: Florida
+Capital: Tallahassee
+Latitude: 30.438118
+Longitude: -84.281296
